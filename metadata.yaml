@@ -1,0 +1,33 @@
+_repo: Elam-Storm-The-Wolfer--13-Or-The-Lost-Nugget_30428
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: ''
+gutenberg_issued: '2009-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30428'
+  lccn: '11017970'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+title: Elam Storm, the Wolfer; Or, The Lost Nugget
+url: http://www.gutenberg.org/ebooks/30428
